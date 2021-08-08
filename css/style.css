@@ -1,21 +1,27 @@
-body{
-    font: 20px Arial, sans-serif; 
-}
-
-.navbar{
-    background-color:  #109D22;
-}
-.quem-somos{
-    background-color: #E5D003;
-    color: white;
-}
-
-.margin{
-
-    padding-bottom: 50px;
-    padding-top: 10px;
-}
-    .parceiros{
-        background-color: #FCE719;
-    }
-
+                        body {
+                            font: 20px Arial, sans-serif;
+                        }
+                        
+                        .navbar {
+                            background-color: #109D22;
+                        }
+                        
+                        .quem-somos {
+                            background-color: #E5D003;
+                            color: white;
+                        }
+                        
+                        .margin {
+                            padding-bottom: 50px;
+                            padding-top: 10px;
+                        }
+                        
+                        .parceiros {
+                            background-color: #FCE719;
+                            color: white;
+                        }
+                        
+                        .bg-footer {
+                            background-color: black;
+                            color: white;
+                        }
