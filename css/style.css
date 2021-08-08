@@ -25,3 +25,7 @@
                             background-color: black;
                             color: white;
                         }
+                        
+                        .align-text-right {
+                            text-align: left;
+                        }
